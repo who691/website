@@ -1,0 +1,667 @@
+
+@media only screen and (max-width: 320px){
+
+  footer.rule-footer#rule-footer{
+    position: absolute !important;
+    margin-top: 1750px !important;
+  }
+
+
+  .about-footer#about-footer{
+
+    position: absolute !important;
+  top: 1670px !important;
+
+}
+
+   footer.faq-footer#faq{
+    position: absolute !important;
+    margin-top: 220px !important;
+  }
+  
+  #okay{
+    position: absolute !important;
+    left: 250px !important;
+  top: 10px !important;
+  }
+
+  #our{
+    position: absolute !important;
+  
+   margin-top: 220px !important;
+  }
+
+  #feature-banner{
+    position: absolute !important;
+  
+    margin-top: 5px !important;
+  }
+
+ 
+
+}
+
+
+@media only screen and (max-width: 375px){
+  #our{
+    position: absolute !important;
+  
+   margin-bottom: -10px !important;
+  }
+
+  #feature-banner{
+    position: absolute !important;
+  
+    margin-top: 5px !important;
+  }
+
+footer.faq-footer#faq{
+    position: absolute !important;
+  top: 4100px !important;
+  }
+
+  .about-footer#about-footer{
+    position: absolute !important;
+  margin-top: 700px !important;
+  }
+
+.newrule{
+  position: absolute !important;
+  
+  margin-left: 10px !important;
+}
+
+.newrule h5{
+  margin-left: -90px !important;
+}
+  
+  .rule-footer#rule-footer{
+    position: absolute !important;
+    margin-top: 1350px !important;
+  }
+  
+
+}
+
+
+@media only screen and (max-width: 426px) {
+
+ input#forgot-in{
+margin-top: 80px !important;
+ }
+
+ #for-for{
+margin-left: -70px !important;
+ }
+
+#for-forgot{
+  margin-top: -40px !important;
+}
+
+  .news-footer#news100{
+    position: absolute !important;
+    top: 500px !important;
+  }
+
+  .rate#rate{
+    margin-top: 10px;
+  }
+
+  .okay{
+    position: absolute !important;
+    left: 250px !important;
+  
+  }
+
+    .theme-menu-wrappers {
+        width: 100%;
+        max-width: 400px;
+        height: auto;
+      }
+
+      #theme-main-banner{
+          position: absolute !important;
+     left: 20% !important;
+     top: 80px !important;
+
+      }
+
+       .p{
+        line-height: 100% !important;
+          margin-top: 40px !important;
+      }
+
+      #btn{
+position: absolute !important;
+left: -10px !important;
+margin-top: 10px !important;
+      }
+      .button-1{
+          margin-right: -5px !important;
+      }
+
+    .invest{
+          font-size: 28px !important;
+          margin-bottom: -20px !important;
+          line-height: 100% !important;
+          
+      }
+    .invest .in1{
+         margin-bottom: 0%  !important;
+      }
+
+      #rate{
+        position: absolute !important;
+    display: flex !important;
+        top: 600px !important;
+        align-items: center !important;
+        justify-content: center !important;
+      }
+
+      #our{
+        position: absolute !important;
+      
+        top: 810px !important;
+      }
+
+      #feature-banner{
+        position: absolute !important;
+      
+        top: 3970px !important;
+      }
+
+      .work-progress{
+        position: absolute !important;
+      
+        top: 5050px !important;
+      }
+
+      .testimonial-section{
+        position: absolute !important;
+      
+        top: 6050px !important;
+      }
+      .our-service{
+        position: absolute !important;
+      
+        top: 6950px !important;
+      }
+
+      .why-choose-us {
+        position: absolute !important;
+      
+        top: 9500px !important;
+      }
+      .latest-update{
+        position: absolute !important;
+      
+        top: 11250px !important;
+      }
+      .theme-footer{
+        position: absolute !important;
+      
+        top: 12500px !important;
+      }
+
+      .navbar_fixed #mega-menu-wrapper{
+        position: fixed !important;
+        top: 10px !important;
+        right: 20px !important;
+      }
+
+      .navbar_fixed #logo{
+          height: 25% !important;
+          width: 25% !important;
+          position: fixed !important;
+          top: 10px !important;
+          left: 20px !important;
+      }
+      
+  
+      
+
+#mega-menu-wrapper{
+
+    position: absolute !important;
+    top: -25px !important;
+
+}
+
+.diss{
+    display: none !important;
+    transition: .5s ease;
+}
+
+.logo{
+  position: absolute !important;
+  top: -10px !important;
+}
+
+.faq-footer#faq{
+  position: absolute !important;
+  top: 3680px !important;
+}
+
+#faq-logo{
+  position: absolute !important;
+  left: 250px !important;
+  top: 10px !important;
+}
+
+#about-footer{
+  position: absolute !important;
+  margin-top: 500px !important;
+}
+
+.about-logo{
+  position: absolute !important;
+  left: 250px !important;
+  top: 10px !important;
+}
+
+#rule-footer{
+  position: absolute !important;
+  margin-top: 1200px !important;
+}
+
+.rule-logo{
+  position: absolute !important;
+  left: 250px !important;
+  top: 10px !important;
+}
+
+.re-footer#re-footer{
+  position: absolute !important;
+  top: 1600px !important;
+}
+
+.re-logo{
+  position: absolute !important;
+  left: 250px !important;
+  top: 10px !important;
+}
+
+#login-footer{
+  position: absolute !important;
+  margin-top: 100px !important;
+}
+
+.login-logo{
+  position: absolute !important;
+  left: 250px !important;
+  top: 10px !important;
+}
+
+.con-footer#con-footer{
+  position: absolute !important;
+  margin-top: 0px !important;
+}
+
+.acon{
+  position: absolute !important;
+  margin-top: 30px !important;
+  left: 0% !important;
+}
+.alab{
+  margin-top: 10px !important;
+}
+
+.bcon{
+  position: absolute !important;
+  margin-top: 50px !important;
+  left: 0% !important;
+}
+
+.blab{
+  margin-top: 30px !important;
+}
+
+.ccon{
+  position: absolute !important;
+  margin-top: 75px !important;
+  left: -100px !important;
+}
+
+.btn-last{
+  position: absolute !important;
+  margin-top: 200px !important;
+}
+
+.con-logo{
+  position: absolute !important;
+  left: 250px !important;
+  top: 10px !important;
+}
+
+div.con#con{
+  width: 100% !important;
+}
+
+
+
+}
+
+@media only screen and (max-width: 769px) {
+
+  div.forgot-100#form{
+    top: 430px !important;
+  }
+
+  #forgot-footer{
+    top: 650px !important;
+  }
+
+  .rate{
+  display:none !important;
+  }
+
+
+
+  .navbar_fixed .mega-menu-wrapper{
+    position: fixed !important;
+    top: 40px !important;
+    right: 50px !important;
+  }
+  .navbar_fixed .logo{
+      height: 25% !important;
+      width: 25% !important;
+      position: fixed !important;
+      top: 40px !important;
+      left: 50px !important;
+  }
+
+  .diss{
+    display: none !important;
+    transition: .5s ease;
+}
+
+.framebody#frame{
+  position: absolute !important;
+  margin-top: -160px !important;
+}
+#about{
+  position: absolute !important;
+  top: 270px !important;
+}
+
+#about-footer{
+  position: absolute !important;
+  top: 1430px !important;
+}
+
+.newrule{
+  position: absolute !important;
+  top: 200px !important;
+}
+
+#rule{
+  position: absolute !important;
+  top: 260px !important;
+}
+
+#rule-footer{
+  position: absolute !important;
+  top: 1830px !important;
+}
+
+#appCapsule{
+  position: absolute !important;
+top: 270px !important;
+}
+#re-footer{
+  position: absolute !important;
+  top: 1550px !important;
+}
+.input-data{
+  margin-top: 10px !important;
+  margin-left: 10px !important;
+}
+
+#login{
+  position: absolute !important;
+  top: -100px !important;
+}
+
+#login-footer{
+  position: absolute !important;
+  top: 580px !important;
+}
+
+#con{
+  position: absolute !important;
+  margin-top: -175px !important;
+}
+
+#con-footer{
+  position: absolute !important;
+  margin-top: 0px !important;
+}
+
+#con-title{
+  margin-bottom: 0px !important;
+}
+
+			#fqa-title{
+        margin-bottom: 20px !important;
+      }
+
+      #faq-new{
+        margin-top: 50px;
+      }
+
+}
+
+@media only screen and (max-width: 1025px){
+
+  span.forgot#forgot{
+    margin-left: -250px !important;
+  }
+
+  #forgot-in{
+    margin-left: 100px !important;
+    margin-top: 30px !important;
+  }
+
+  #forgot-btn{
+    margin-left: 100px !important;
+  }
+
+  #news1{
+    margin-top: -30px !important;
+  }
+
+  .news-footer{
+    margin-top: -100px !important;
+  }
+
+
+  
+  .our1{
+    position: absolute !important;
+  
+    margin-top: 150px !important;
+  }
+
+  .feature-banner{
+    position: absolute !important;
+  
+    top: 1650px !important;
+  }
+
+  .navbar_fixed #navbarNav{
+   margin-left: 100px !important;
+  }
+  #frame{
+    position: absolute !important;
+    margin-top: -80px !important;
+  }
+  #faq{
+    position: absolute !important;
+    margin-top: -80px !important;
+  }
+
+  .about{
+    position: absolute !important;
+    top: 350px !important;
+  }
+
+  .about-footer{
+    position: absolute !important;
+    top: 1780px !important;
+  }
+
+  .rule{
+    position: absolute !important;
+    top: 350px !important;
+  }
+  
+  .rule-footer{
+    position: absolute !important;
+    top: 1900px !important;
+  }
+
+  .re{
+    position: absolute !important;
+  top: 340px !important;
+  }
+  .re-footer{
+    position: absolute !important;
+    top: 1050px !important;
+  }
+  .login{
+    position: absolute !important;
+    top: -20px !important;
+  }
+
+  .login-footer{
+    position: absolute !important;
+    top: 580px !important;
+  }
+
+  #con{
+    position: absolute !important;
+   margin-top: -100px !important; 
+  }
+  .con-footer{
+    position: absolute !important;
+    top: 780px !important;
+  }
+
+  .forgot-100{
+    margin-top: -100px !important;
+  }
+
+  .forgot-footer{
+    margin-top: -150px !important;
+  }
+
+}
+
+
+@media only screen and (max-width: 1441px){
+
+  .forgot#forgot{
+    margin-left: 30px !important;
+  }
+
+  #news100{
+    margin-top: -150px !important;
+  }
+
+  .our1{
+    position: absolute !important;
+  
+   margin-top: 180px !important;
+  }
+  .rate{
+    margin-top: 150px;
+  }
+.framebody{
+  position: absolute !important;
+  margin-top: 80px !important;
+}
+
+.faq-footer{
+  position: absolute !important;
+  margin-top: 50px !important;
+}
+
+.about{
+  position: absolute !important;
+  margin-top: 70px !important;
+}
+
+.about-footer{
+  position: absolute !important;
+  margin-top: 50px !important;
+}
+
+
+.rule{
+  position: absolute !important;
+  margin-top: 70px !important;
+}
+
+.rule-footer{
+  position: absolute !important;
+  margin-top: 60px !important;
+}
+
+.re{
+  position: absolute !important;
+  margin-top: 60px !important;
+}
+
+.login{
+  position: absolute !important;
+  margin-top: 80px !important;
+}
+
+.con{
+  width: 80% !important ;
+}
+
+}
+
+@media only screen and (max-width: 2560px){
+
+  #forgot{
+    margin-left: 600px !important;
+  }
+
+  #body{
+    height: 100% !important;
+  }
+
+  #news-title{
+    margin-bottom: 15px !important;
+  }
+
+  #faq1{
+    width: 100% !important;
+  }
+
+  .logo{
+    float: unset !important;
+    z-index: -1 !important;
+  }
+
+  .our1{
+    position: absolute !important;
+  
+    top: 650px !important;
+  }
+
+  .feature-banner{
+    position: absolute !important;
+  
+    top: 1650px !important;
+  }
+.con-footer{
+  position: absolute !important;
+  margin-top: 20px !important;
+}
+
+
+
+}
